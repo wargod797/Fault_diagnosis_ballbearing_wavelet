@@ -28,6 +28,7 @@ the Test Readings Files nomenclature
   BF HL 830          Outter Race Fault      HALF LOAD == 1.5 kg      1730 RPM 
   BF FL 735          Outter Race Fault      FULL LOAD == 3kg         1735 RPM
   
+  The RPM Varies from the Theortical values to the Experiemental values
   
   
   Components Used and Requirements====================
