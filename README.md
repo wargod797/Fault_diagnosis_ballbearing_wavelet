@@ -24,9 +24,9 @@ the Test Readings Files nomenclature
   IRF NL 955         Inner Race Fault       NO   LOAD == 0kg         1955 RPM
   IRF HL 877         Inner Race Fault       HALF LOAD == 1.5kg       1877 RPM
   IRF FL 744         Inner Race Fault       FULL LOAD == 3kg         1744 RPM 
-  BF NL 945          Outter Race Fault      NO   LOAD == 0kg         1945 RPM
-  BF HL 830          Outter Race Fault      HALF LOAD == 1.5 kg      1730 RPM 
-  BF FL 735          Outter Race Fault      FULL LOAD == 3kg         1735 RPM
+  BF NL 945          Ball Fault             NO   LOAD == 0kg         1945 RPM
+  BF HL 830          Ball Fault             HALF LOAD == 1.5 kg      1730 RPM 
+  BF FL 735          Ball Fault             FULL LOAD == 3kg         1735 RPM
   
   The RPM Varies from the Theortical values to the Experiemental values
   
