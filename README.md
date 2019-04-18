@@ -41,6 +41,3 @@ the Test Readings Files nomenclature
   National Instruments Data Aquestion DAQ CARD and system 
   Single Direction Aceelerometer
 
-
-
-For data Contact Email== "Sridharbesuge@gmail.com"
