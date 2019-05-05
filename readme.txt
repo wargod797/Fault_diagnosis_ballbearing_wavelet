@@ -12,6 +12,8 @@ Measure the vibrations of machine recorded by velocity
 The import files are essential for the project
 the Test Readings Files nomenclature 
 
+For Complete Data Email= Sridharbesuge@gmail.com
+
   File_name          Fault_type            Loading_condition         RPM
   ===========================================================================
  TB NL 940          Healthy Bearing        NO   LOAD == 0kg         1940 RPM
