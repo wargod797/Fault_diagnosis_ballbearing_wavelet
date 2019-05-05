@@ -11,6 +11,8 @@ as compared with the old traditional methods.
 The most common method of monitoring the condition of rolling element bearing is by using vibration signal analysis.
 Measure the vibrations of machine recorded by velocity
 
+For Complete Data Email: Sridharbesuge@gmail.com
+
 
 The import files are essential for the project 
 
