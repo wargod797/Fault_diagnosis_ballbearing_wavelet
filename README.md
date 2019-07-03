@@ -43,3 +43,4 @@ the Test Readings Files nomenclature
   National Instruments Data Aquestion DAQ CARD and system 
   Single Direction Aceelerometer
 
+On 150 Stars i will Update AI programming for Early Detection of Faults in Bearings with Python, on 200 Stars, MATLAB program and Full Datasets on 500 stars
