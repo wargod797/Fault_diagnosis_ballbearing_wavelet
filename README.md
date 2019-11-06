@@ -14,7 +14,7 @@ Measure the vibrations of machine recorded by velocity
 For Complete Data Email: Sridharbesuge@gmail.com
 
 
-The import files are essential for the project 
+The dataset files are essential for the project 
 
 the Test Readings Files nomenclature 
   
