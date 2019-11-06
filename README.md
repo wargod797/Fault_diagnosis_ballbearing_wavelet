@@ -20,14 +20,23 @@ the Test Readings Files nomenclature
   
   File_name          Fault_type            Loading_condition         RPM
   ===========================================================================
+  
   TB NL 940          Healthy Bearing        NO   LOAD == 0kg         1940 RPM
+  
   TB HL 877          Healthy Bearing        HALF LOAD == 1.5kg       1877 RPM
+  
   TB FL 731          Healthy Bearing        FULL LOAD == 3kg         1731 RPM
+  
   IRF NL 955         Inner Race Fault       NO   LOAD == 0kg         1955 RPM
+  
   IRF HL 877         Inner Race Fault       HALF LOAD == 1.5kg       1877 RPM
+  
   IRF FL 744         Inner Race Fault       FULL LOAD == 3kg         1744 RPM 
+  
   BF NL 945          Ball Fault             NO   LOAD == 0kg         1945 RPM
+  
   BF HL 830          Ball Fault             HALF LOAD == 1.5 kg      1730 RPM 
+  
   BF FL 735          Ball Fault             FULL LOAD == 3kg         1735 RPM
   
   The RPM Varies from the Theortical values to the Experiemental values
