@@ -11,9 +11,6 @@ as compared with the old traditional methods.
 The most common method of monitoring the condition of rolling element bearing is by using vibration signal analysis.
 Measure the vibrations of machine recorded by velocity
 
-For Complete Data Email: Sridharbesuge@gmail.com
-
-
 The dataset files are essential for the project 
 
 the Test Readings Files nomenclature 
@@ -52,4 +49,3 @@ the Test Readings Files nomenclature
   National Instruments Data Aquestion DAQ CARD and system 
   Single Direction Aceelerometer
 
-On 150 Stars i will Update AI programming for Early Detection of Faults in Bearings with Python, on 200 Stars, MATLAB program and Full Datasets on 500 stars
