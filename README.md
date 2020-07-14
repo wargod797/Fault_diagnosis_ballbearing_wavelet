@@ -14,6 +14,18 @@ Measure the vibrations of machine recorded by velocity
 The dataset files are essential for the project 
 
 the Test Readings Files nomenclature 
+
+TB = Test Bearing
+
+IRF = Inner Race Fault
+
+BF = Ball Fault
+
+NL = No Load
+
+HL = Half Load
+
+FL = Full Load
   
   File_name          Fault_type            Loading_condition         RPM
   ===========================================================================
